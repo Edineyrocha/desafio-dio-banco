@@ -1,24 +1,8 @@
 package pacotebanco;
 
-public class ContaCorrente {
+public class ContaCorrente extends Conta {
 
-	private int agencia;
-	private int conta;
-	private double saldo;
+ {
 	
-	
-	
-	
-
-	public void sacar() {
-
-	}
-
-	public void transferir() {
-
-	}
-
-	public void depositar() {
-
-	}
+}
 }
